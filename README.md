@@ -1,4 +1,4 @@
-# useCart-react-custom-hook
+# useCart a hook to manage your cart functionalities with React.
 [Work in progres...]
 A custom hook to handle cart functionalities.
 This hooks comes with one state and six functions.
