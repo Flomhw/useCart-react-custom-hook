@@ -2,11 +2,7 @@ import {useState} from 'react'
 
 export default function useCart() {
 
-    const [cart, setCart] = useState([
-      {
-
-      }
-    ]); /* Here we store the product object */
+    const [cart, setCart] = useState([]); /* Here we store the product object */
 
 
 
